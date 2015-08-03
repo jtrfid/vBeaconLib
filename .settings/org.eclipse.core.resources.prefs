@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//libs/estimote-sdk-preview.jar.properties=UTF-8
+encoding//src/com/yetwish/libs/BeaconSearcher.java=UTF-8
+encoding//src/com/yetwish/libs/connection/BatteryService.java=UTF-8
+encoding//src/com/yetwish/libs/connection/BeaconCharacteristics.java=UTF-8
+encoding//src/com/yetwish/libs/connection/BeaconConnector.java=UTF-8
+encoding//src/com/yetwish/libs/connection/BluetoothService.java=UTF-8
+encoding//src/com/yetwish/libs/connection/VoliamService.java=UTF-8
+encoding//src/com/yetwish/libs/connection/VoliamUuid.java=UTF-8
+encoding//src/com/yetwish/libs/distance/CustomerCalculator.java=UTF-8
+encoding//src/com/yetwish/libs/distance/DistanceUtils.java=UTF-8
+encoding//src/com/yetwish/libs/distance/EstimoteCalculator.java=UTF-8
+encoding//src/com/yetwish/libs/util/Constants.java=UTF-8
+encoding//src/com/yetwish/libs/util/ContextUtil.java=UTF-8
+encoding//src/com/yetwish/libs/util/LogUtil.java=UTF-8
+encoding//src/com/yetwish/libs/util/VoliamBeacon.java=UTF-8
